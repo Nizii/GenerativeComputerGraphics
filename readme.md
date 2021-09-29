@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Generative Computer Graphics - Winter 2021
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
@@ -9,6 +10,11 @@
 
 Welcome to the classes generative design @ HSLU / Digital Ideation. This is the main page for the class, you will find a list of resources available below as well as some other information to help with this 3 weeks workshop. It is advised to download / clone this repo at the beginning of the class and eventually keep it updated. All the assignments and their accompanying documentations should be collected by the students in the `journal` branch of this repo.
 
+=======
+# Day 01
+
+## Computing without computer
+>>>>>>> d77a5e119a9ce3ac1c13ed1cc6eaf45c0a921ce8
 
 ## Content
 
@@ -27,9 +33,23 @@ Welcome to the classes generative design @ HSLU / Digital Ideation. This is the 
 
 During the 3 weeks class we will be looking at the core functions of p5.js and three.js, and some simple useful maths technics. We will experiment with shapes, patterns and agents (intelligent and non intelligent). We will then learn how color spaces are created and how to generate them dynamically. We will then adapt what we've learned and play with new concepts such as noise and random values, we will continue developing our agents and adapt them to create generative typography
 
+<<<<<<< HEAD
+=======
+### Moniker
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+
+{% raw %}
+<iframe src="content/day01/01/embed.html" width="100%" height="450" frameborder="no"></iframe>
+{% endraw %}
+
+
+## Computing with computer
+>>>>>>> d77a5e119a9ce3ac1c13ed1cc6eaf45c0a921ce8
 
 ## Tools
 
+<<<<<<< HEAD
 - :pencil2: [P5.js](https://p5js.org/)
 - :red_circle: [Three.js](https://threejs.org/)
 - :point_up_2: [TouchDesigner](https://derivative.ca/)
@@ -79,3 +99,14 @@ The assignments in this course are primarily intended to be executed by individu
 * Describe who did what. Written reports for collaborative projects should describe how your effort was distributed.
 * Only known collaborators. Your project collaborator, if you have one, must be in this class. You may not collaborate with people from outside the course (e.g. your housemate).
 * Avoid co-dependency. You may not collaborate with the same person (i.e. submit an assignment jointly) on more than two projects.
+=======
+> At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+
+{% raw %}
+<iframe src="content/day01/02/embed.html" width="100%" height="450" frameborder="no"></iframe>
+{% endraw %}
+
+* Lorem ipsum dolor sit amet
+* Consetetur sadipscing elitr, sed diam nonumy.
+* At vero eos et accusam et justo duo dolores et ea rebum. 
+>>>>>>> d77a5e119a9ce3ac1c13ed1cc6eaf45c0a921ce8

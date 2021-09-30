@@ -44,7 +44,3 @@ More trys...
 
 !['c'](../../assets/images/circlesizewhite3.JPG)
 
-My full code.
-
-!['c'](../../assets/images/code1.JPG)
-

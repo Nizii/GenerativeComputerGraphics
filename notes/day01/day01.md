@@ -10,7 +10,7 @@ You are not allowed to draw a line which crosses another line. A spot cannot hav
 We started with three points and then increased to five points at the beginning.
 In the last step we tried to draw straight lines only (picture bottom right).
 
-![''](../../assets/images/linegame.PNG)
+![''](../../assets/images/linegame.png)
 
 ## Rest of the day
 After the input, i learned how to configure my git from the console.

@@ -24,7 +24,15 @@ Colored the circels yellow.
 
 !['c'](../../assets/images/circle4.JPG)
 
-Trys.
+Added a slider to scale the diameter live and tryed a few times...
+
+!['c'](../../assets/images/fullcodefav.JPG)
+
+...and this is my result, my favorite try.
+
+!['c'](../../assets/images/fav.JPG)
+
+Earlier tryouts.
 
 !['c'](../../assets/images/circlesizewhite.JPG)
 

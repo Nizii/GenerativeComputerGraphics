@@ -8,7 +8,7 @@
 ### Sketch
 My Sketch
 
-![''](../../assets/images/day3/skizze.JPG)
+![''](../../assets/images/day3/skizze.jpg)
 
 ### My first try
 I had some problem with the rotation

@@ -1,6 +1,4 @@
 # Day 02
-## End Result
-IFrame fehlt!!!!!!!!!!!!!!!!!!!!!
 
 
 ## My Dev. Process
@@ -28,11 +26,7 @@ Added a slider to scale the diameter live and tryed a few times...
 
 !['c'](../../assets/images/fullcodefav.JPG)
 
-...and this is my result, my favorite try.
-
-!['c'](../../assets/images/fav.JPG)
-
-Earlier tryouts.
+More trys...
 
 !['c'](../../assets/images/circlesizewhite.JPG)
 
@@ -43,4 +37,7 @@ More trys...
 ...and one More.
 
 !['c'](../../assets/images/circlesizewhite3.JPG)
+
+## Live example
+<iframe src="http://127.0.0.1:5500/p5js/Day2 Grids & Iterative Patterns/index.html" width="600" height="600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 

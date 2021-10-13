@@ -2,34 +2,30 @@
 
 ## Faces
 
-###
-{% raw %}
+### Live example
 
-<iframe src="https://github.com/digitalideation/gencg_h2101/tree/master/notes/day05#books-resources" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="http://127.0.0.1:5500/p5js/Day5/index.html" width="800" height="800" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-
-{% endraw %}
+### examples
 ![''](../../assets/images/day5/try1.JPG)
 
-###
+### further examples
 ![''](../../assets/images/day5/try3.JPG)
 
-###
+### further examples
 ![''](../../assets/images/day5/try4.JPG)
-![''](../../assets/images/day5/codediameter.JPG)
 
-###
+### further examples
 ![''](../../assets/images/day5/try5.JPG)
 
-###
+### further examples
 ![''](../../assets/images/day5/try7.JPG)
 
-###
+### further examples
 ![''](../../assets/images/day5/try8.JPG)
 
-###
+### further examples
 ![''](../../assets/images/day5/try9.JPG)
-
 
 ### My Code
 ![''](../../assets/images/day5/code.JPG)

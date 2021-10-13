@@ -2,31 +2,30 @@
 
 ## Pixels
 
-###
-{% raw %}
+### Live example
 
-<iframe src="https://github.com/digitalideation/gencg_h2101/tree/master/notes/day05#books-resources" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="500" src="http://127.0.0.1:5500/p5js/Day6%20Pixels/index.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-{% endraw %}
+### further examples
 ![''](../../assets/images/day6/try2.JPG)
 
-###
+### further examples
 ![''](../../assets/images/day6/try3.JPG)
 
-###
+### further examples
 ![''](../../assets/images/day6/try4.JPG)
 ![''](../../assets/images/day6/try5.JPG)
 
-###
+### further examples
 ![''](../../assets/images/day6/try6.JPG)
 
-###
+### further examples
 ![''](../../assets/images/day6/try7.JPG)
 
-###
+### further examples
 ![''](../../assets/images/day6/try8.JPG)
 ![''](../../assets/images/day6/try9.JPG)
 
-###
+### My code
 ![''](../../assets/images/day6/fullcode.JPG)

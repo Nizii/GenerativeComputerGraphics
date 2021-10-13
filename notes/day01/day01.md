@@ -13,5 +13,5 @@ In the last step we tried to draw straight lines only (picture bottom right).
 ![''](../../assets/images/linegame.png)
 
 ## Rest of the day
-After the input, i learned how to configure my git from the console.
+After the input, i learned how to configure my git from the visual code console.
 ![''](../../assets/images/day1/gitcommands.jpg)

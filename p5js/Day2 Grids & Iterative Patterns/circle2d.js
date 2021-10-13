@@ -4,7 +4,7 @@ function setup() {
   slider = createSlider(0, 255, 100);
   slider.position(10, 10);
   slider.style('width', '80px');
-  createCanvas(800, 800);
+  createCanvas(600, 600);
   background(51);
   let width = 100;
   let height = 100;

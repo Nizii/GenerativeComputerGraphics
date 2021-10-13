@@ -106,10 +106,7 @@ The small rectangel in the middle rotate every milli second. The second smallest
 
 ### examples
 ![''](../../assets/images/day4/try10.JPG)
-![''](../../assets/images/day4/try16.JPG)
 ![''](../../assets/images/day4/coderec.JPG)
-
-### examples
 ![''](../../assets/images/day4/try11.JPG)
 ![''](../../assets/images/day4/codeink.JPG)
 
@@ -175,3 +172,10 @@ The small rectangel in the middle rotate every milli second. The second smallest
 
 ### My code
 ![''](../../assets/images/day6/fullcode.JPG)
+
+# My extendet work
+![''](../../assets/images/day4/try16.JPG)
+
+![''](../../assets/images/day4/town.JPG)
+
+<iframe width="900" height="900" src="http://127.0.0.1:5500/p5js/ext/index.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

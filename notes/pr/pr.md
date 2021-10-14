@@ -91,11 +91,7 @@ The small rectangel in the middle rotate every milli second. The second smallest
 
 ### examples
 ![''](../../assets/images/day4/try1.JPG)
-
-### examples
 ![''](../../assets/images/day4/try3.JPG)
-
-### examples
 ![''](../../assets/images/day4/try4.JPG)
 ![''](../../assets/images/day4/codediameter.JPG)
 
@@ -124,26 +120,15 @@ The small rectangel in the middle rotate every milli second. The second smallest
 
 # Day 05
 ## Faces
+My program draws different smilies. 
+The smilies are generated randomly and have different facial expressions.
 
-### examples
 ![''](../../assets/images/day5/try1.JPG)
-
-### examples
 ![''](../../assets/images/day5/try3.JPG)
-
-### examples
 ![''](../../assets/images/day5/try4.JPG)
-
-### examples
 ![''](../../assets/images/day5/try5.JPG)
-
-### examples
 ![''](../../assets/images/day5/try7.JPG)
-
-### examples
 ![''](../../assets/images/day5/try8.JPG)
-
-### examples
 ![''](../../assets/images/day5/try9.JPG)
 
 ### Live example
@@ -156,16 +141,13 @@ The small rectangel in the middle rotate every milli second. The second smallest
 # Day 06
 
 ## Pixels
+At the beginning i didn't know how to start my work. So i went to the p5js website.
+I played around with the code with different parameters and tried a few things.
 
-### examples
+Sources: https://p5js.org/reference/#/p5/pixels
 ![''](../../assets/images/day6/try2.JPG)
-![''](../../assets/images/day6/try3.JPG)
 ![''](../../assets/images/day6/try4.JPG)
 ![''](../../assets/images/day6/try5.JPG)
-![''](../../assets/images/day6/try6.JPG)
-![''](../../assets/images/day6/try7.JPG)
-![''](../../assets/images/day6/try8.JPG)
-![''](../../assets/images/day6/try9.JPG)
 
 ### Live example
 <iframe width="800" height="500" src="http://127.0.0.1:5500/p5js/Day6%20Pixels/index.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -175,7 +157,11 @@ The small rectangel in the middle rotate every milli second. The second smallest
 
 # My extendet work
 ![''](../../assets/images/day4/try16.JPG)
+For my extended work i chose the topic from day four the drawing machine.
 
 ![''](../../assets/images/day4/town.JPG)
+I got my inspiration from the game starcitisen. I wanted to generate an automatically, randomly generated, futuristic city surface.
 
+
+At the beginning the background is created. After 1000 loops, the machine randomly creates houses.
 <iframe width="900" height="900" src="http://127.0.0.1:5500/p5js/ext/index.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

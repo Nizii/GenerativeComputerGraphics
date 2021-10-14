@@ -1,3 +1,6 @@
+/*
+  author Nizam Özdemir
+*/
 
 var rectangle = [];
 // count of every frame in draw function
@@ -10,6 +13,8 @@ var houseX;
 var houseY;
 // counter for the height of the house one count is one layer
 var houseHeightCunt;
+// Var to start the programm
+var start = 0;
 
 function setup() {
   createCanvas(800, 800);
@@ -20,10 +25,18 @@ function setup() {
   houseHeightCunt = 0;
   threshold = 1000;
   drawCount = 0;
+  button = createButton('Start');
+  button.position(0, 850);
+  button.mousePressed(startbutton);
+}
+
+function startbutton() {
+  start = 1;
 }
 
 function draw() {
-  drawCount += 1;
+  if(start == 1) {
+    drawCount += 1;
     var index = 0;
     while(index < rectangle.length) {
       rect(rectangle[index].x, rectangle[index].y, rectangle[index].h, rectangle[index].w);
@@ -34,6 +47,7 @@ function draw() {
       setBackground();
     }else{
       buildHouse();
+    }
   }
 }
 
@@ -48,12 +62,16 @@ function buildHouse() {
   houseX += random(0,2);
   houseY += random(3,0);
   // after 29 layers have been laid, the new position of the house will determined by random
-  if(houseHeightCunt % 30 == 0){
-    houseX = random(1,700);
-    houseY = random(1,700);
-  // one layer of a house will laid here
-  }else if (houseHeightCunt < 1000){
+  if(houseHeightCunt % 30 == 0) {
+    houseX = random(1,750);
+    houseY = random(1,750);
+  // one layer of a house per frame will laid here, houses have different sizes depends on the var "houseHeightCunt"
+  } else if (houseHeightCunt < 1000) {
     rectangle[rectangle.length] = { x: houseX, y: houseY , w: random(0, 100), h: random(0, 100)}
+  } else if (houseHeightCunt > 1000 && houseHeightCunt < 2000) {
+    rectangle[rectangle.length] = { x: houseX, y: houseY , w: random(0, 60), h: random(0, 60)}
+  } else if (houseHeightCunt > 2000 && houseHeightCunt < 2500) {
+    rectangle[rectangle.length] = { x: houseX, y: houseY , w: random(0, 40), h: random(0, 40)}
   }
 }
 

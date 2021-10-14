@@ -47,13 +47,12 @@ function buildHouse() {
   // each layer is shifted by certain coordinates, so that the house looks like a house when you look down from above
   houseX += random(0,2);
   houseY += random(3,0);
-  // after 29 layers have been laid, the roof is put in place as last layer and then the new position of the structures will determined by random
-  if(houseHeightCunt % 30 == 0 && houseHeightCunt < 240){
-    rectangle[rectangle.length] = { x: houseX, y: houseY , w: random(80,100), h: random(80,100)}
+  // after 29 layers have been laid, the new position of the house will determined by random
+  if(houseHeightCunt % 30 == 0){
     houseX = random(1,700);
     houseY = random(1,700);
   // one layer of a house will laid here
-  }else if (houseHeightCunt < 241){
+  }else if (houseHeightCunt < 1000){
     rectangle[rectangle.length] = { x: houseX, y: houseY , w: random(0, 100), h: random(0, 100)}
   }
 }

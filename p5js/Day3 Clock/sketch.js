@@ -13,7 +13,7 @@ function draw() {
 
   let a = color('#008B8B');
   fill(a);
-  rotate(-second());
+  rotate(-hour());
 	rect(0, 0, 300, 300);
 
   let b = color('#FF8C00');
@@ -23,7 +23,7 @@ function draw() {
 
   let c = color('#556B2F');
   fill(c);
-  rotate(-hour());
+  rotate(-second());
 	rect(0, 0, 100, 100);
 
   let d = color('#8B0000');

@@ -8,24 +8,24 @@
 
 
 ### further examples
-![''](../../assets/images/day6/try2.jpg)
+![''](../../assets/images/day6/try2.JPG)
 
 ### further examples
-![''](../../assets/images/day6/try3.jpg)
+![''](../../assets/images/day6/try3.JPG)
 
 ### further examples
-![''](../../assets/images/day6/try4.jpg)
-![''](../../assets/images/day6/try5.jpg)
+![''](../../assets/images/day6/try4.JPG)
+![''](../../assets/images/day6/try5.JPG)
 
 ### further examples
-![''](../../assets/images/day6/try6.jpg)
+![''](../../assets/images/day6/try6.JPG)
 
 ### further examples
-![''](../../assets/images/day6/try7.jpg)
+![''](../../assets/images/day6/try7.JPG)
 
 ### further examples
-![''](../../assets/images/day6/try8.jpg)
-![''](../../assets/images/day6/try9.jpg)
+![''](../../assets/images/day6/try8.JPG)
+![''](../../assets/images/day6/try9.JPG)
 
 ### My code
-![''](../../assets/images/day6/fullcode.jpg)
+![''](../../assets/images/day6/fullcode.JPG)

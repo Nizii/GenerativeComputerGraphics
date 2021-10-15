@@ -21,7 +21,7 @@ The small rectangel in the middle rotate every milli second. The second smallest
 ![''](../../assets/images/day3/try3.JPG)
 
 ### Live example
-<iframe src="http://127.0.0.1:5500/p5js/Day3 Clock/index.html" width="600" height="600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="../../p5js/Day3 Clock/index.html" width="600" height="600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ### My Code
 

@@ -4,7 +4,7 @@
 
 ### Live example
 
-<iframe src="http://127.0.0.1:5500/p5js/Day5/index.html" width="800" height="800" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="../../p5js/Day5/index.html" width="800" height="800" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ### examples
 ![''](../../assets/images/day5/try1.JPG)

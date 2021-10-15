@@ -64,7 +64,7 @@ More trys...
 !['c'](../../assets/images/circlesizewhite3.JPG)
 
 ## Live example
-<iframe src="http://127.0.0.1:5500/p5js/Day2 Grids & Iterative Patterns/index.html" width="600" height="600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="../../p5js/Day2 Grids & Iterative Patterns/index.html" width="600" height="600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 
 # Day 03
@@ -85,7 +85,7 @@ The small rectangel in the middle rotate every milli second. The second smallest
 ![''](../../assets/images/day3/try3.JPG)
 
 ### Live example
-<iframe src="http://127.0.0.1:5500/p5js/Day3 Clock/index.html" width="600" height="600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="../../p5js/Day3 Clock/index.html" width="600" height="600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ### My Code
 ![''](../../assets/images/day3/code.JPG)
@@ -113,10 +113,10 @@ The small rectangel in the middle rotate every milli second. The second smallest
 
 
 ### Live example rectangles
-<iframe src="http://127.0.0.1:5500/p5js/Day4/index.html" width="800" height="800" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="../../p5js/Day4/index.html" width="800" height="800" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ### Live example circles
-<iframe src="http://127.0.0.1:5500/p5js/Day4/indexc.html" width="800" height="800" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="../../p5js/Day4/indexc.html" width="800" height="800" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ### My Code
 ![''](../../assets/images/day4/code.JPG)
@@ -137,7 +137,7 @@ The smilies are generated randomly and have different facial expressions.
 ![''](../../assets/images/day5/try9.JPG)
 
 ### Live example
-<iframe src="http://127.0.0.1:5500/p5js/Day5/index.html" width="800" height="800" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="../../p5js/Day5/index.html" width="800" height="800" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ### My Code
 ![''](../../assets/images/day5/code.JPG)

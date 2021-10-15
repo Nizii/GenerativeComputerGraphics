@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Day 01
 
 ## The Game Sprouts

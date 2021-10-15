@@ -10,7 +10,7 @@ function draw() {
   
   var index1 = 0;
   while(index1 < circles.length) {
-    circle(circles[index1].x, circles[index1].y, random(1, 15));
+    circle(circles[index1].x, circles[index1].y, random(1, 5));
 	  index1 += 1;
   }
 

@@ -9,7 +9,7 @@ I played around with the code with different parameters and tried a few things.
 ![''](../../assets/images/day06/try5.JPG)
 
 ### Live example
-<iframe width="800" height="500" src="../../p5js/Day6%20Pixels/index.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="500" src="../../p5js/Day6 Pixels/index.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### My code
 ![''](../../assets/images/day6/fullcode.JPG)

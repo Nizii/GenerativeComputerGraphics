@@ -18,6 +18,8 @@ Here are some results.
 ### Live example
 <iframe src="../../p5js/Day5/index.html" width="800" height="800" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-### My Code
+### Code snip
 ![''](../../assets/images/day5/code.JPG)
-Code-> <https://github.com/Nizii/GenerativeComputerGraphics/tree/journal/p5js/Day5>
+
+### Code 
+<https://github.com/Nizii/GenerativeComputerGraphics/tree/journal/p5js/Day5>

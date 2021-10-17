@@ -28,7 +28,8 @@ every square has its own time unit. The small rectangel in the middle rotate eve
 Live example
 <iframe src="../../p5js/Day3 Clock/index.html" width="600" height="600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-My Code
-
+### Code snip
 ![''](../../assets/images/day3/code.JPG)
-Code-> <https://github.com/Nizii/GenerativeComputerGraphics/tree/journal/p5js/Day3%20Clock>
+
+### Code 
+<https://github.com/Nizii/GenerativeComputerGraphics/tree/journal/p5js/Day3%20Clock>

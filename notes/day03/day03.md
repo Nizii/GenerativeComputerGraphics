@@ -1,7 +1,6 @@
 # Day 03
 
 ## Clock
-### My thoughts
 
 ### My sketch
 I wanted to make a clock with three symbols that rotate around their own axis. 

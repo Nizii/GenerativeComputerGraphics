@@ -31,3 +31,4 @@ Live example
 My Code
 
 ![''](../../assets/images/day3/code.JPG)
+Code-> https://github.com/Nizii/GenerativeComputerGraphics/tree/journal/p5js/Day3%20Clock

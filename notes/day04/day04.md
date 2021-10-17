@@ -1,7 +1,7 @@
 # Day 04
 
 ## Drawing machine
-
+My first goal was to program a drawing machine where I can draw something directly into a frame with the mouse. 
 I started drawing with circles. 
 ![''](../../assets/images/day4/try1.JPG)
 

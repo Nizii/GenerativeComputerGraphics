@@ -28,9 +28,12 @@ I've made a couple of combinations too.
 
 
 ### Live example rectangles
+
+Click with the mouse on the black field below and keep it pressed to draw a picture.
 <iframe src="../../p5js/Day4/index.html" width="800" height="800" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ### Live example circles
+Click with the mouse on the black field below and keep it pressed to draw a picture.
 <iframe src="../../p5js/Day4/indexc.html" width="800" height="800" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ### My Code

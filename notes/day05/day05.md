@@ -20,4 +20,4 @@ Here are some results.
 
 ### My Code
 ![''](../../assets/images/day5/code.JPG)
-Code-> https://github.com/Nizii/GenerativeComputerGraphics/tree/journal/p5js/Day5
+Code-> <https://github.com/Nizii/GenerativeComputerGraphics/tree/journal/p5js/Day5>

@@ -14,4 +14,4 @@ Sources: https://p5js.org/reference/#/p5/pixels
 
 ### My code
 ![''](../../assets/images/day6/fullcode.JPG)
-Code-> https://github.com/Nizii/GenerativeComputerGraphics/tree/journal/p5js/Day6%20Pixels
+Code-> <https://github.com/Nizii/GenerativeComputerGraphics/tree/journal/p5js/Day6%20Pixels>

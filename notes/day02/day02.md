@@ -3,6 +3,7 @@
 
 ## My Dev. Process
 My first sketches, i chose circles. I wanted to keep it simple as possible.
+I have tryed it with different shapes, but I liked it most with circles.
 
 !['c'](../../assets/images/skizze.jpg)
 
@@ -37,6 +38,8 @@ More trys...
 ...and one More.
 
 !['c'](../../assets/images/circlesizewhite3.JPG)
+
+To expand the work, I could imagine working with 3d objects. 
 
 ## Live example
 <iframe src="../../p5js/Day2 Grids & Iterative Patterns/index.html" width="600" height="600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>

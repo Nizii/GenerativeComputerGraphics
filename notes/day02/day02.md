@@ -43,4 +43,5 @@ To expand the work, I could imagine working with 3d objects.
 
 ## Live example
 <iframe src="../../p5js/Day2 Grids & Iterative Patterns/index.html" width="600" height="600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+Code-> https://github.com/Nizii/GenerativeComputerGraphics/tree/journal/p5js/Day2%20Grids%20%26%20Iterative%20Patterns
 

@@ -11,6 +11,9 @@ I played around with the code with different parameters and tried a few things.
 ### Live example
 <iframe width="800" height="500" src="../../p5js/Day6 Pixels/index.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### My code
+### Code snip
+
 ![''](../../assets/images/day06/fullcode.JPG)
-Code-> <https://github.com/Nizii/GenerativeComputerGraphics/tree/journal/p5js/Day6%20Pixels>
+
+### Code 
+<https://github.com/Nizii/GenerativeComputerGraphics/tree/journal/p5js/Day6%20Pixels>
